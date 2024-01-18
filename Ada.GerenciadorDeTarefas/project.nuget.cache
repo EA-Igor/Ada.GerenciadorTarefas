@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W/bHtUx/ssQvIlA7I7iOzoCH8CV2RVPwFOwKYVj95YZhATrepjQ+yOd/v/kXAeGOW5Cn/wLqb5EgSAVoBKxqrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\igord\\Downloads\\Ada.GerenciadorTarefas\\Ada.GerenciadorTarefas\\Ada.GerenciadorTarefas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igord\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
